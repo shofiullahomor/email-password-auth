@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Email Password Auth Project</h1>
+<h1>Fetures are include</h1>
+<h3>Sign Up Functionality</h3>
+<h3>Login Functionality</h3>
+<h3>Forget Password Functionality</h3>
+<h3>Reset Password Functionality</h3>
+<h3>Others Functionality</h3>
+<hr>
+<h4>Live Link: https://bejewelled-faloodeh-8c4394.netlify.app/</h4>
